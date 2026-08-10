@@ -1,2 +1,2 @@
 # Screen-Time-Analysis
-Survey of screem time pattern of different age groups
+Survey of screen time pattern of different age groups
